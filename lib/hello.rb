@@ -7,3 +7,4 @@ greeter = Greeter.new(name)
 puts greeter.greet
 puts "---"
 puts "abc"
+puts "xyz"
